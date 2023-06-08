@@ -1,16 +1,11 @@
-# dnd_dice
+# DnD Dice Roller - Flutter App
 
-A new Flutter project.
+DnD Dice Roller is a Flutter app designed specifically for tabletop role-playing games, such as Dungeons & Dragons (DnD). The app provides a convenient and immersive way to roll dice digitally, eliminating the need for physical dice and enhancing the gaming experience.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Roll dice of various types, including d4, d6, d8, d10, d12, and d20.
+- Customize the number of dice to roll for each type.
+- Calculate and display the total sum of the rolled dice.
+- Supports both individual dice rolls and multiple dice rolls at once.
+- Simple and intuitive user interface.
